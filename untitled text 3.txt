@@ -8,3 +8,4 @@ u'value': u'607b15e1c0a8010e00a4413059767eec'}
 u'value': u'607b15e1c0a8010e00a4413059767eec'}
 {u'link': u'https://dev16176.service-now.com/api/now/table/cmdb_rel_type/607b15e1c0a8010e00a4413059767eec', 
 u'value': u'607b15e1c0a8010e00a4413059767eec'}
+ik kom er ook nog bij kijken.
